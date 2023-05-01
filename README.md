@@ -1,2 +1,10 @@
 # Tourism-and-travel-website-
-Using HTML CSS JavaScript Ajax &amp; PHP MySQL We make a tourism website 
+Using 
+Lang:- HTML,CSS,JavaScript,Ajax,PHP
+
+Icon:- Font-Awesome
+
+Database:- MySQL
+
+
+Thank you 👍😊
