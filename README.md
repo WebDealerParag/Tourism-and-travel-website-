@@ -11,7 +11,7 @@ Thank you 👍😊
 
 
 #Previews :-
-loding
+loading 
 ![A](https://user-images.githubusercontent.com/104508321/235507968-2921727f-1184-4ce5-9909-028dda62bd34.jpg)
 
 
